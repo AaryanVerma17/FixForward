@@ -1,0 +1,2 @@
+# Install the official Strands Decider server package separately when you want local model inference.
+strands-decider

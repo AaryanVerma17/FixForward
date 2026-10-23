@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SAMPLE-001",
+    "category": "electric_fan",
+    "title": "General fan safety note (illustrative)",
+    "source": "FixForward project safety note",
+    "source_url": null,
+    "verified": false,
+    "content": "If an electric fan has smoke, a burning smell, or overheating, stop using it and arrange qualified inspection. Do not open the appliance while connected to power. This is a project safety note, not a manufacturer manual."
+  },
+  {
+    "id": "SAMPLE-002",
+    "category": "mixer_grinder",
+    "title": "General mixer grinder safety note (illustrative)",
+    "source": "FixForward project safety note",
+    "source_url": null,
+    "verified": false,
+    "content": "If a mixer grinder emits a burning smell, overheats, sparks, or has damaged wiring, stop using it and arrange qualified inspection. Do not open the appliance while connected to power. This is a project safety note, not a manufacturer manual."
+  },
+  {
+    "id": "SAMPLE-003",
+    "category": "all",
+    "title": "Warranty verification checklist (illustrative)",
+    "source": "FixForward project checklist",
+    "source_url": null,
+    "verified": false,
+    "content": "Check the purchase invoice, warranty card, product model number, warranty start date, exclusions, and authorized service terms. Warranty status should be confirmed with the manufacturer or seller; this checklist does not establish that a specific product is covered."
+  }
+]
